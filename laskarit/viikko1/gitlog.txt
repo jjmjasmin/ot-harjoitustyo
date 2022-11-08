@@ -1,0 +1,113 @@
+commit 90cb29a19574e22d30f15a0ecec8e1f619e0008e
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 18:21:58 2022 +0200
+
+    file1 poistettu file2 uudelleennimetty file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 7af99ca491c3f91591c6f466f8477c48fb0daf16
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 18:14:29 2022 +0200
+
+    hakemisto 'tiedotoja' luotu, file1, file2, file3 tiedostot lisätty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 1ba1d525cbbb92ab3adc925cbed615278e127af7
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 18:06:00 2022 +0200
+
+    eka.txt ja kolmas.txt muokattu
+
+ eka.txt    | 10 ++++------
+ kolmas.txt |  2 +-
+ 2 files changed, 5 insertions(+), 7 deletions(-)
+
+commit 671a2005b1cb51f93fd88f8febb211bcdd75d584
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 18:00:32 2022 +0200
+
+    tiedosto.txt uudelleennimetty
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 144de31fdc9401d638c3235a29a947035c47817a
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 17:58:08 2022 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit e20859d29214ea66861f763f216b5fc84c4a716b
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 17:54:09 2022 +0200
+
+    tiedosto.txt muokattu
+
+ tiedosto.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit bad2422f0c3004999c8c4d8a1c861a739f9b150e
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 17:51:59 2022 +0200
+
+    tiedosto.txt muokattu
+
+ tiedosto.txt | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 1af97ced1e7c2002215a0b5f05f07ad4a9f5974e
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 17:15:36 2022 +0200
+
+    hakemisto stuff luotu ja lisätty jokin.txt
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4f87a523552d043915c46a6bbc6ad357b0bd2da9
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 17:11:02 2022 +0200
+
+    muutos
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 5902459d73bb15a173de203e0f60356d278f5c9b
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 17:09:03 2022 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit bcd5f10b8aa134a22d27200b80c661e66d9726f5
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 17:05:19 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 5899212476be452f774abdfae2050a81ee67c32e
+Author: jjmjasmin <jasmin.makinen@helsinki.fi>
+Date:   Tue Nov 8 16:57:04 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
