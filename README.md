@@ -2,7 +2,8 @@
 
 ### Laivanupotuspeli
 Kurssin *Ohjelmistotekniikka syksy 2022* tavoitteena on toteuttaa hyvin 
-toimiva kaksinpeli nimeltä **Laivanupotus**
+toimiva kaksinpeli nimeltä **Laivanupotus**, jonka työstäminen alkaa 
+viikolla 2
 
 ### Tehtävät
 #### Viikko 1
